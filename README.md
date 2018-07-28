@@ -1,4 +1,4 @@
-## Example google maps with react
+## Example of using testing (Mocha, Chai) 
 
 
 ##### This project uses:
